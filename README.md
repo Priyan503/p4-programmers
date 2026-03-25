@@ -6,7 +6,7 @@ This monorepo contains both the **FastAPI Backend** and the **Next.js Frontend**
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Smart Data Ingestion**: Upload bank CSVs or receipt images — OCR extracts and auto-categorizes everything.
 - **Live Financial Dashboard**: See your real-time balance, runway days, and month-by-month cash flow chart.
@@ -17,7 +17,7 @@ This monorepo contains both the **FastAPI Backend** and the **Next.js Frontend**
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 - [Next.js](https://nextjs.org/) (App Router)
@@ -34,7 +34,7 @@ This monorepo contains both the **FastAPI Backend** and the **Next.js Frontend**
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### 1. Start the Backend API
 
@@ -78,7 +78,7 @@ npm run dev
 
 ---
 
-## 👤 Demo Login
+##  Demo Login
 
 Use these credentials to log in and test the application with the seeded mock data:
 - **Email:** `demo@fintech.com`
@@ -86,7 +86,7 @@ Use these credentials to log in and test the application with the seeded mock da
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 .
